@@ -2,7 +2,7 @@
   'use strict';
 
   // CHANGE ONLY THIS LINE after you upload the repo to GitHub.
-  const ASSET_BASE = 'https://raw.githubusercontent.com/samantha-mulkey/bidwerx-psc-finder/main/dist';
+  const ASSET_BASE = 'https://cdn.jsdelivr.net/gh/samantha-mulkey/bidwerx-psc-finder@main/dist';
 
   const RESULT_LIMIT = 6;
   const selectors = {
